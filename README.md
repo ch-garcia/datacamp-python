@@ -4,7 +4,7 @@ This repository contains my work and solutions from the DataCamp Data Scientist 
 
 ## Contents
 
-Each folder in this repository includes a specific Python project with its related questions and solutions.
+Each folder in this repository includes a specific Python project with its related questions and my solutions.
 
 Whenever possible, I included the datasets.
 
