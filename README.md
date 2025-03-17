@@ -6,6 +6,8 @@ This repository contains my work and solutions from the DataCamp Data Scientist 
 
 Each folder in this repository includes a specific `Python project` with its related questions and solutions (`Jupyter Notebooks` detailing the Python code).
 
+Whenever possible, I included the datasets.
+
 ## Note
 
 This repository is for educational and personal learning purposes only. All content and materials in this repository are based on the curriculum provided by **DataCamp**, and their intellectual property rights apply. 
